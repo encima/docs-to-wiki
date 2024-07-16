@@ -1,0 +1,24 @@
+---
+kindle-sync:
+  bookId: '63755'
+  title: 'Quiet
+  author: Susan Cain
+  asin: B0074YVW1G
+  lastAnnotatedDate: '2021-09-13'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71NDnv8+hvL._SY160.jpg'
+  highlightsCount: 1
+created: 2022-06-23T09:58:06+03:00
+updated: 2022-06-23T09:58:06+03:00
+---
+# Quiet
+## Metadata
+* Author: [Susan Cain](https://www.amazon.com/Susan-Cain/e/B004XVMVYK/ref=dp_byline_cont_ebooks_1)
+* ASIN: B0074YVW1G
+* ISBN: 0307352145
+* Reference: https://www.amazon.com/dp/B0074YVW1G
+* [Kindle link](kindle://book?action=open&asin=B0074YVW1G)
+
+## Highlights
+Kafka, for example, couldn’t bear to be near even his adoring fiancée while he worked: You once said that you would like to sit beside me while I write. Listen, in that case I could not write at all. For writing means revealing oneself to excess; that utmost of self-revelation and surrender, in which a human being, when involved with others, would feel he was losing himself, and from which, therefore, he will always shrink as long as he is in his right mind.… That is why one can never be alone enough when one writes, why there can never be enough silence around one when one writes, — location: [1479](kindle://book?action=open&asin=B0074YVW1G&location=1479) ^ref-33489
+
+---

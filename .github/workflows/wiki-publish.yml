@@ -1,0 +1,55 @@
+name: Push Playbooks to Wiki
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'playbooks/**'
+
+jobs:
+  update-wiki:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Setup Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Clone Wiki Repository
+      env:
+        REPO_URL: ${{ github.repository }}
+        TOKEN: ${{ secrets.WIKI_PAT }}
+      run: |
+        WIKI_URL="https://${{ secrets.WIKI_PAT }}@github.com/${REPO_URL}.wiki.git"
+        git clone $WIKI_URL wiki_repo
+
+    - name: Clean Wiki Repository
+      run: |
+        shopt -s extglob
+        cd wiki_repo
+        rm -rf !(|.git|.gitignore)
+        cd ..  
+
+    - name: Copy and Rename Playbooks to Wiki
+      run: |
+        shopt -s globstar
+        for file in playbooks/**/*.md; do
+          new_name=$(echo "$file" | sed 's|/|_|g' | sed 's|playbooks_||')
+          cp "$file" "wiki_repo/$new_name"
+        done
+
+    - name: Commit and Push to Wiki
+      run: |
+        cd wiki_repo
+        if [ -n "$(git status --porcelain)" ]; then
+          git add .
+          git commit -m "Update wiki with playbooks from main repository"
+          git push -f origin master
+        else
+          echo "No changes to commit"
+        fi

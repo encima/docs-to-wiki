@@ -1,0 +1,38 @@
+---
+kindle-sync:
+  bookId: '41171'
+  title: 'Cage of Souls
+  author: Adrian Tchaikovsky
+  asin: B07DPRW17S
+  lastAnnotatedDate: '2021-08-01'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/91vTjUFMCTL._SY160.jpg'
+  highlightsCount: 6
+created: 2022-06-23T09:58:16+03:00
+updated: 2022-06-23T09:58:16+03:00
+---
+# Cage of Souls
+## Metadata
+* Author: [Adrian Tchaikovsky](https://www.amazon.com/Adrian-Tchaikovsky/e/B002XLHS8Q/ref=dp_byline_cont_ebooks_1)
+* ASIN: B07DPRW17S
+* Reference: https://www.amazon.com/dp/B07DPRW17S
+* [Kindle link](kindle://book?action=open&asin=B07DPRW17S)
+
+## Highlights
+He was one of the best examples of the principle that power is at its greatest when not actually being used. — location: [471](kindle://book?action=open&asin=B07DPRW17S&location=471) ^ref-20868
+
+---
+I am studying the past because when one is at the end of a road, the only way to look is backwards.” — location: [993](kindle://book?action=open&asin=B07DPRW17S&location=993) ^ref-23568
+
+---
+As far as chemical waste goes, the ancients built to last.” — location: [3350](kindle://book?action=open&asin=B07DPRW17S&location=3350) ^ref-11493
+
+---
+the world in her hands she would break it, but the thought occurred to me that I never asked to be the guardian of the world’s virtue anyway. — location: [3597](kindle://book?action=open&asin=B07DPRW17S&location=3597) ^ref-12991
+
+---
+“Well, we spoil everything, don’t we? We are an ingenious people.” — location: [4244](kindle://book?action=open&asin=B07DPRW17S&location=4244) ^ref-10975
+
+---
+Typical human stupidity. Nobody ever looks to tomorrow. Thank God we’re on the edge of extinction — location: [4754](kindle://book?action=open&asin=B07DPRW17S&location=4754) ^ref-30459
+
+---

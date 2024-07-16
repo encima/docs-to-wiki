@@ -1,0 +1,30 @@
+---
+kindle-sync:
+  bookId: '48288'
+  title: 'Meditations
+  author: Marcus Aurelius and Gregory Hays
+  asin: B08RP7Z54J
+  lastAnnotatedDate: '2022-05-21'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81Y-cYK7vTL._SY160.jpg'
+  highlightsCount: 3
+created: 2022-06-23T09:56:58+03:00
+updated: 2022-06-23T09:56:58+03:00
+---
+# Meditations
+## Metadata
+* Author: [Marcus Aurelius and Gregory Hays](https://www.amazon.com/Marcus-Aurelius/e/B000AR7YUW/ref=dp_byline_cont_ebooks_1)
+* ASIN: B08RP7Z54J
+* ISBN: 1545565678
+* Reference: https://www.amazon.com/dp/B08RP7Z54J
+* [Kindle link](kindle://book?action=open&asin=B08RP7Z54J)
+
+## Highlights
+But to go away from among men, if there are gods, is not a thing to be afraid of, for the gods will not involve thee in evil; but if indeed they do not exist, or if they have no concern about human affairs, what is it to me to live in a universe devoid of gods or devoid of Providence? But in truth they do exist, and they do care for human things, and they have put all the means in man’s power to enable him not to fall into real evils. — location: [171](kindle://book?action=open&asin=B08RP7Z54J&location=171) ^ref-36614
+
+---
+For to be vexed at anything which happens is a separation of ourselves from nature, — location: [203](kindle://book?action=open&asin=B08RP7Z54J&location=203) ^ref-5571
+
+---
+For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul, particularly when he has within him such thoughts that by looking into them he is immediately in perfect tranquility; and I affirm that tranquility is nothing else than the good ordering of the mind. — location: [338](kindle://book?action=open&asin=B08RP7Z54J&location=338) ^ref-43234
+
+---
